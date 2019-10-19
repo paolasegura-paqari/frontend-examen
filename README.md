@@ -8,7 +8,7 @@ Caso considere que estuviera faltando alguna información para la ejecución del
 
 La aplicación a ser desarrollada consiste en una lista de tareas siguiendo como ejemplo la imagen a continuación.
 
-![Image of todos](https://github.com/tonitim13/frontend-examen/master/wireframe.png)
+![Image of todos](https://github.com/tonitim13/frontend-examen/wireframe.png)
 
 Debe ser implementado la creación de tareas usando un campo de entrada de texto (de acuerdo a la imagen).
 
