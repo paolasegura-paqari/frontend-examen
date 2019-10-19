@@ -39,7 +39,7 @@ Separe los commits por pasos que fueron ejecutados en el desarrollo del proyecto
 Requerido:
 
 * ES6
-* Pruebas unitarias en al menos en un componente implementado.
+* Pruebas unitarias al menos en un componente implementado.
 * [Airbnb Style Guide](https://github.com/airbnb/javascript)
 
 ### Al publicar
