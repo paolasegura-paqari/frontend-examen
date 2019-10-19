@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "orden": 0,
+      "completado": false,
+      "descripcion": "Lavar carro"
+    },
+    {
+      "id": 2,
+      "orden": 3,
+      "completado": false,
+      "descripcion": "Hacer compras"
+    },
+    {
+      "id": 3,
+      "orden": 1,
+      "completado": false,
+      "descripcion": "Ir al medico"
+    }
+  ]
+}
