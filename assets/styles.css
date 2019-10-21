@@ -1,0 +1,46 @@
+#container{
+	width: 500px;
+	height: 800px;
+	display: block;
+	margin: auto;
+	margin-top:30px;
+}
+
+#container div.checkboxes{
+	width: 100%;
+	display: flex;
+	/*flex: auto;*/
+	justify-content: space-around;
+}
+
+div.checkboxes > .form-check:first-child,
+div.checkboxes > .custom-radio:first-child{
+	margin-left: 20px;
+}
+
+span.title{
+	margin:auto;
+	text-align: center;
+}
+
+.form-check{
+	display: flex;
+	justify-content: space-around;
+	font-size: 18pt;
+}
+
+.list-group>li.list-group-item{
+	border: 1px solid;
+}
+
+input[disabled], button[disabled], .disabled{
+	background-color: #d2d2d2 !important;
+}
+
+@media only screen and (max-width: 800px) {
+	#container{
+		margin-top:10px;
+		width: 90%;
+		height: 300px;
+	}
+}
